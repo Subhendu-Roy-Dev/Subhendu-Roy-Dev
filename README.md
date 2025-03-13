@@ -33,7 +33,7 @@ Welcome to my grid! I’m **Subhendu Roy** – a self-evolved coder, AI trailbla
 - **Open-Source Nexus:** Powering the collective grid with tools for global creators.  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PsProsen-Dev&show_icons=true&theme=transparent&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhendu-Roy-Dev&show_icons=true&theme=transparent&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF" alt="GitHub Metrics" />
 </p>
 
 ---
