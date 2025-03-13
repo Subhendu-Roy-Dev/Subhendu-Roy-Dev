@@ -66,7 +66,7 @@ Welcome to my grid! I’m **Subhendu Roy** – a self-evolved coder, AI trailbla
 - Converting limitations into launch sequences – open-source is my superpower!  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PsProsen-Dev&theme=react-dark&bg_color=000000&color=00FFFF&line=FF00FF&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhendu-Roy-Dev&theme=react-dark&bg_color=000000&color=00FFFF&line=FF00FF&point=FFFFFF" alt="Activity Graph" />
 </p>
 
 ---
